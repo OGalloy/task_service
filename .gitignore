@@ -1,0 +1,4 @@
+*__pycache__
+*alch_encv
+#hide database
+/db/db_ads.sqlite 
